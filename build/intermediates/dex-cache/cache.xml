@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\80af702e1718bffbd557f698246a127172acd28c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_518539ba3dfa2e3b1560a36b565eea244189943d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\c6c5280b89eb7218020126818045388a399a55b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14f15661229fd79c1243f18455280e4c0b08b003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3af08159ea89328adeb2ee3e44c4232d57443513">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58471692389d362eceed211c822f8c9a809933f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\130b21639376869de331685a146e40e901f42715\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69743d12ebfdace6d4592acd52c0fd3d4ef0c8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\130b21639376869de331685a146e40e901f42715\output\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.0_2ffbc1bbb3bf82df02212cb4ebeac5c5ec680a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\fe4976aeab91d77c7e166655db17344a8f01170f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10f12884d2fa9ffe2e2804eee0656adff643e893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\4d42e2fe41ec25aed09c72e0eca0bf01540364d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ceaa5c7d9177e07b91c45954a3ec274cf8f3b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_3dc8b7c96c633760ae1cb96929ce601cf2e7eace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d1221b17f16e8220824bff4e2b375976e8750bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\64a2ae41a002d6485c4abbfe54d6a93e04237dbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d33371b788b631d402ebc9df81ba36e3120b38d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c85f6f41e519c128394b1274b1cf5ba790885a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\9724297252ea3aeeeb68bd8ce11296e26b4fbe83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c58fe141a5278fba883be4000a3e6e266c77190c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qll1axg\.android\build-cache\b432a3af296ae7dcf4e8883f3fc9e007ac8143c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\ProgramData\DDrive\UPS_Hack\PandorasBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3967a91dc7dfe7835d69846282c9c8a0625cd798\classes.dex" />
+    </item>
+
+</items>

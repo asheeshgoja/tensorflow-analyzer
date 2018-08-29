@@ -1,0 +1,57 @@
+ssh into tensor_admin@ups-tensorflow.eastus2.cloudapp.azure.com
+
+//Start the container  and shell into it
+docker run -it -v /home/tensor_admin/pandoras_box/tf_files/:/tf_files/ gcr.io/tensorflow/tensorflow:latest-devel
+
+//if already running ssh into it
+docker ps
+docker exec -i -t 89d8162de990 /bin/bash
+
+//if port is not mapped the use this
+docker ps
+docker commit <containerid> <foo/live>
+docker run -i -p 22 -p 8000:80 -v /home/tensor_admin/pandoras_box/tf_files/:/tf_files/ -t <foo/live> /bin/bash
+
+cd /tensorflow
+
+Get the latest version of tensor flow
+git pull
+
+Train the model
+python tensorflow/examples/image_retraining/retrain.py \
+  --bottleneck_dir=/tf_files/bottlenecks \
+  --how_many_training_steps=500 \
+  --model_dir=/tf_files/inception \
+  --summaries_dir=/tf_files/training_summaries/basic \
+  --output_graph=/tf_files/retrained_graph.pb \
+  --output_labels=/tf_files/retrained_labels.txt \
+  --image_dir=/tf_files/imgs
+
+Run a test
+python /tf_files/is_image_a_package.py /tf_files/test_images/dog.jpg
+
+
+//docker admin stuff
+docker rm $(docker ps -a | grep Exited | awk '{print $1}')
+
+docker stop $(docker ps -a | awk '{print $1}')
+
+
+//node
+apt-get update
+apt-get install nodejs
+apt-get install npm
+
+npm cache clean -f
+npm install -g n
+n stable
+node --version
+
+//
+cd /tensorflow/node_server_file_up
+nohup node app-n.js&
+
+//
+sudo docker exec -i -t 434bcaa96d0d /bin/bash
+
+

@@ -1,0 +1,15 @@
+{
+  "name": "tensorflow-node-app",
+  "version": "0.0.0",
+  "description": "tensorflor node app",
+  "main": "app.js",
+  "author": {
+    "name": "asheesh goja"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "~1.8.1",
+    "express-ws": "^2.0.0-rc.1",
+    "express-fileupload":"^0.1.0"
+  }
+}
